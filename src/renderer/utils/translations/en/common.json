@@ -1,0 +1,21 @@
+{
+  "login": {
+    "usernameTaken": "Username is already taken!",
+    "emailTaken": "E-mail is already taken!",
+    "emailPassDidntMatch":"E-mail and password didn't match!",
+    "register":"Register",
+    "login":"Login",
+    "alreadyMember":"Already member",
+    "notMember":"Not a member?",
+    "loginDiscord":"LOG IN WITH DISCORD",
+    "loginTwitch":"LOG IN WITH TWITCH",
+    "fullName":"Full Name",
+    "email":"E-mail",
+    "password":"Password",
+    "username":"Username",
+    "forgotPassword":" Forgot your password?"
+  }
+
+
+
+}
