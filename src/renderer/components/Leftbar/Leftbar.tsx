@@ -22,7 +22,7 @@ export default function Leftbar() {
   const [activeTab, setActiveTab] = useState('Rewards');
   const [extend, setExtend] = useState(false);
 
-  ////////////////// PROBLEMATIC CODE NEED TO REFACTOR
+  ////////////////// PROBLEMATIC CODE NEED TO REFACTOR s
   const classes = useStyles();
   return (
     <Grid style={extend ? {height:"100vh",width:"180px"} : {height:"100vh",width:"100px"}}>
